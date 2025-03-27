@@ -86,13 +86,13 @@ int main(void)
 	printf("\n");
 	printf("Hello, %s\n", "world!");
 	printf("Character: %c\n", 'A');
-    printf("Integer: %d\n", num);
+ 	printf("Integer: %d\n", num);
 	printf("Integer (%%i): %i\n", -99);
-    printf("Unsigned: %u\n", u_num);
-    printf("Pointer: %p\n", ptr);
-    printf("NULL Pointer: %p\n", null_ptr);
-    printf("Hex (lowercase): %x\n", num);
-    printf("Hex (uppercase): %X\n", num);
-    printf("Percent sign: %%\n");
+ 	printf("Unsigned: %u\n", u_num);
+ 	printf("Pointer: %p\n", ptr);
+ 	printf("NULL Pointer: %p\n", null_ptr);
+  	printf("Hex (lowercase): %x\n", num);
+   	printf("Hex (uppercase): %X\n", num);
+    	printf("Percent sign: %%\n");
 }
 */
