@@ -65,7 +65,7 @@ int	ft_printf(const char *prm, ...)
 	va_end(args);
 	return (len);
 }
-
+/*
 int main(void)
 {
     int num = 42;
@@ -95,4 +95,4 @@ int main(void)
     printf("Hex (uppercase): %X\n", num);
     printf("Percent sign: %%\n");
 }
-
+*/
