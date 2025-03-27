@@ -68,9 +68,9 @@ int	ft_printf(const char *prm, ...)
 /*
 int main(void)
 {
-    int num = 42;
-    unsigned int u_num = 123456;
-    void *ptr = &num;
+	int num = 42;
+    	unsigned int u_num = 123456;
+    	void *ptr = &num;
 	void *null_ptr = NULL;
 
 	ft_printf("Hello, %s\n", "world!");  // String
